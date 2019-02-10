@@ -1,6 +1,6 @@
 // Write your code in this file!
 function scuberGreetingForFeet(distance) {
-  let response;
+  let response
   if (distance < 400) {
   response  = 'This one is on me!';
   }
@@ -14,7 +14,7 @@ function scuberGreetingForFeet(distance) {
 }
 
 function ternaryCheckCity(destination) {
-  let response;
+  let response
   if (destination == 'NYC') {
     response = 
   }
