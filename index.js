@@ -5,9 +5,9 @@ function scuberGreetingForFeet(distance) {
   response  = 'This one is on me!';
   }
   else if (distance > 2000) {
-  response = 30;
+  response = 'I will gladly take your thirty bucks.;
   }
-  
+  else if (distance)
   return response;
 }
 
