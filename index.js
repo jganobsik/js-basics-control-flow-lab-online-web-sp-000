@@ -30,4 +30,6 @@ function switchOnCharmFromTip(tip) {
   if(tip == 'generous') {
     response = ''
   }
+  
+   return response;
 }
