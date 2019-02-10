@@ -27,5 +27,7 @@ function ternaryCheckCity(destination) {
 
 function switchOnCharmFromTip(tip) {
   let response 
-  if(tip )
+  if(tip ) {
+    
+  }
 }
